@@ -1,9 +1,11 @@
 # Description
 
-This repository contains solution to problems from the foobar challenge. 
+One day I received a curious invitation from Google.
 
 ![Invitation](https://github.com/yunodo/foobar/blob/main/invitation.png?raw=true)
 
+
+Upon learning more about the Foobar Challenge, I've decided to complete a few problems and this repository contains solutions.
 
 Challenges are in the order of increasing complexity (1,2,3). 
 
