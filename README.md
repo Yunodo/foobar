@@ -2,7 +2,8 @@
 
 This repository contains solution to problems from the foobar challenge. 
 
-![Invitation](https://github.com/[username]/[reponame]/blob/[branch]/invitation.png?raw=true)
+![Invitation](https://github.com/yunodo/foobar/blob/main/invitation.png?raw=true)
+
 
 Challenges are in the order of increasing complexity (1,2,3). 
 
